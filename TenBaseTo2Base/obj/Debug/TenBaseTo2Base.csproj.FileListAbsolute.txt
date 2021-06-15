@@ -1,0 +1,6 @@
+C:\Users\mypc\source\repos\MethodsOverloading\TenBaseTo2Base\bin\Debug\TenBaseTo2Base.exe.config
+C:\Users\mypc\source\repos\MethodsOverloading\TenBaseTo2Base\bin\Debug\TenBaseTo2Base.exe
+C:\Users\mypc\source\repos\MethodsOverloading\TenBaseTo2Base\bin\Debug\TenBaseTo2Base.pdb
+C:\Users\mypc\source\repos\MethodsOverloading\TenBaseTo2Base\obj\Debug\TenBaseTo2Base.csproj.CoreCompileInputs.cache
+C:\Users\mypc\source\repos\MethodsOverloading\TenBaseTo2Base\obj\Debug\TenBaseTo2Base.exe
+C:\Users\mypc\source\repos\MethodsOverloading\TenBaseTo2Base\obj\Debug\TenBaseTo2Base.pdb
