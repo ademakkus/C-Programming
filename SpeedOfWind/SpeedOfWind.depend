@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1640093853 source:c:\users\mypc\codeblocks\speedofwind\main.c
+	<stdio.h>
+	<stdlib.h>
+
